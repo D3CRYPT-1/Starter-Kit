@@ -63,3 +63,26 @@ Welcome to the ultimate toolkit for aspiring and seasoned hackers alike. This re
 - [DSTIKE USB Rubber Ducky](https://s.click.aliexpress.com/e/_oFX4VSJ)
 
 ---
+🚧 Under Development
+This repo is a work in progress. Stay tuned for:
+
+✅ Interactive payload menus
+
+✅ Infiltra-compatible tools
+
+✅ Cross-platform firmware support
+
+✅ Minimalist hardware setup diagrams
+
+✅ Discord community integration
+
+🤝 Contributions
+Pull requests, issues, and suggestions are welcome! If you have a payload or device you think should be included, feel free to open a PR or DM me.
+
+📜 License
+MIT License — Use at your own risk. This repo is for educational and ethical hacking purposes only.
+
+🌐 Join the Movement
+Join the Discord server and help build out the kit with new tools, modules, and drops.
+https://discord.gg/r7QzDmsbyd
+Stay stealthy, stay smart.
