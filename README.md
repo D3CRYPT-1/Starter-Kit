@@ -1,5 +1,5 @@
 :package: **Hecker's Starter Kit**  
-:tools: Curated Tools, Devices & Add-ons for Wireless Hacking
+Curated Tools, Devices & Add-ons for Wireless Hacking
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 :bricks: **M5STACK / LILYGOs & MAIN DEVICES**
