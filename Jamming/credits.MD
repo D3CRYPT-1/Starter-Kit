@@ -56,3 +56,4 @@ Add these files to `/subghz/` on your Flipper Zero (preferrably in a new directo
 ##### The rest of the world:
 `312.00 - 315.25 MHz`
 `920.50 - 923.50 MHz`
+CREDITS TO: https://github.com/SHUR1K-N/Flipper-Zero-Sub-GHz-Jamming-Files
